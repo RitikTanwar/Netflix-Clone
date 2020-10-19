@@ -1,0 +1,13 @@
+.Nav-logo {
+  width: 150px;
+  position: fixed;
+  top: 0%;
+  z-index: 1;
+}
+
+.Nav-avatar {
+  width: 40px;
+  position: fixed;
+  right: 10px;
+  top: 35px;
+}
